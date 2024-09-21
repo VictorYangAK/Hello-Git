@@ -1,2 +1,1 @@
-# Hello-Git
-For study
+为了加入先锋
